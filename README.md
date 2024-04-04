@@ -1,10 +1,9 @@
-🗣️ El-Tea-Oh-Ge-Tea
+L T O G T
 
-### Hi there 👋
 
-- 💙 I love working with Flutter and Dart
-- 🔭 I’m currently working on multi media canvas applications
-- 💬 Ask me about anything related to Flutter/Dart
-- 📫 You can reach me via ltogt.dev@gmail.com
-- 🔍 Check out some tech demos of mine at [omnesia.org/flutter_showcase](https://omnesia.org/flutter_showcase/)
+
+- Flutter and Dart
+- multi media canvas applications
+- ltogt.dev@gmail.com
+- [tech demos](https://omnesia.org/flutter_showcase/)
 
